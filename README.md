@@ -1,2 +1,0 @@
-# SecondLecture
-variable
